@@ -1,8 +1,8 @@
 # VIRTUAL-MACHINES-
 # EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
 
-#### NAME: PRIYANKA R
-#### REG NO: 212223060213
+#### NAME: BHUVANESHWARAN A
+#### REG NO: 212223060031
 
 ## Aim:
 To move the files between virtual machine.
